@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println(
-		tested.Sum(2, 10),
+		tested.Sum(a2, 10),
 	)
 }
